@@ -1,4 +1,4 @@
-- name: Hello
+- name: blank
   'on': push
   jobs: null
   my-job: null
